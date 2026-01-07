@@ -1,0 +1,7 @@
+yfinance>=0.2.30
+pandas>=2.0.0
+numpy
+pandas_ta
+scikit-learn
+xgboost
+python-dotenv
