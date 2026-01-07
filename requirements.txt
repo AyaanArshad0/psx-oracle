@@ -1,7 +1,8 @@
 yfinance>=0.2.30
 pandas>=2.0.0
 numpy<2.0.0
-pandas-ta
+git+https://github.com/twopirllc/pandas-ta.git@development
 scikit-learn
 xgboost
 python-dotenv
+setuptools
